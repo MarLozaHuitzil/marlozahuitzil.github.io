@@ -1,0 +1,288 @@
+@charset "utf-8";
+header{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+body{
+	background-color: #006837;
+}
+nav{
+	font-size: 15pt;
+	color: #FFFFFF;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-between;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.indice a{
+    color: #FFFFFF;
+	
+}
+
+
+
+
+
+
+
+.titulo {
+	color: #FFFFFF;
+	font-size: 90px;
+}
+
+
+
+.linewhite{
+	background-color: antiquewhite;
+	width: auto;
+	height: 5px;
+	margin-top: 10px;
+
+}
+.puntos{
+	font-size: 20pt;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: oblique;
+	font-variant: normal;
+	font-weight: bold;
+}
+#webcolum1 {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 50px;
+	
+}
+#webcolum2 {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 50px;
+	
+}
+#webcolum3 {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 50px;
+	
+}
+#webcolum4 {
+	height: auto;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 50px;
+	
+}
+.colmtext1{
+	width: 500px;
+	height: 300px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+}
+.colmtext2{
+	width: 500px;
+	height: 300px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 70px;
+	}
+.colmtext3{
+	width: 500px;
+	height: auto;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+}
+.colmtext4{
+	width: 500px;
+	height: auto;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 70px;
+}
+.colmtext5{
+	width: 500px;
+	height: auto;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 70px;
+}
+.textstyle1{
+	color: #FFFFFF;
+	text-align: justify;
+	
+	
+}
+.textstyleb{
+	color:#000000;
+	text-align: justify;
+	
+	
+}
+.textstyle2{
+	color: #FFFFFF;
+	text-align: center;
+	
+	
+}
+.textstyleY1{
+	color: #FED404;
+	text-align: justify;
+	
+	
+}
+.textstyleY2{
+	color:#FED404;
+	text-align: center;
+	
+	
+}
+.subtitulow {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 30pt;
+}
+.subtituloB {
+	color: #000000;
+	text-align: center;
+	font-size: 30pt;
+}
+.fondoyellow {
+	background-color: #FED404;
+}
+
+/*
+comentario de separacion*/
+
+.itemcarrucel{
+	height: 100%;
+	position: relative;
+	
+}
+.tarjetacarrucel{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	
+}
+.flechas{
+	height: 100%;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+}
+#contenidocarrusel{
+	height: 250px;
+	overflow: hidden;
+}
+i{
+	color: #000000;
+	font-size: 50px;
+}
+a{
+	text-decoration: none;
+	color: aqua;
+}
+a :visited {
+    color: #1900B9;
+}
+
+
+
+
+#carrepuntos{
+	display: flex;
+	justify-content: center;
+	
+}
+.fa-circle{
+	font-size: 10pt;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.text120{
+	width:auto;
+	margin-left: 100px;
+	margin-right: 100px;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	text-align: justify;
+}
+.alinetextcenter{
+	text-align: center;
+}
+.separacion1 {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.links{
+	background-color: #85856D;
+	border-radius: 98px;
+	font-size: 18pt;
+	margin-bottom: 20px;
+}
+
+
+.cuervo{
+	float: left;
+	
+}
+
+#contenidocienciaexp{
+	width:auto;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	
+}
+.animate__slow {
+}
+.animate__f {
+}
+.animate__delay-5s {
+}
+.a {
+}
+#contenidocienciaexp1 {
+}
+#contenidocienciaexp2 {
+}
+#contenidocienciaexp3 {
+}
+#webcolum1_2 {
+}
+#webcolum1_3 {
+}
+.animate__slower {
+}
